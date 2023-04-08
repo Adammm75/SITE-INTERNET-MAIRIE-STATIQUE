@@ -1,0 +1,99 @@
+/*css accueil*/
+
+body{
+background-color: #E1E1E1;
+font-family: system-ui;
+}
+
+h1{
+color : black;
+margin: auto;
+position: relative;
+top: 100px;
+text-align: center;
+font-size: 280%;
+font-family: system-ui;
+}
+
+h2 {
+position: absolute;
+color : black;
+top: 800px;
+text-align: center;
+font-size: 150%;
+font-family: system-ui;
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+color: white;
+background-color: #333;
+overflow: hidden;
+font-size: 115%;
+font-family: system-ui;
+}
+
+li{
+float: left;
+}
+
+li a{
+text-decoration: none;
+display: block;
+color: white;
+color background: black;
+text-align: center;
+padding: 10px 85px;
+font-family: system-ui;
+}
+
+.active{
+    background-color: darkred;
+} 
+
+
+#logo1{
+position : relative;
+top: -250px;
+right: 0px;
+width: 15%;
+}
+
+#logo2 {
+position : relative;
+top: 1800px;
+right: -1025px;
+width: 15%;
+}
+
+#p1 {
+position : relative;
+top: -210px;
+position: center;
+width: 100%;
+}
+
+#p2 {
+position : relative;
+top: 50px;
+position: center;
+width: 70%;
+}
+
+.actu {
+position: relative;
+top: 100px;
+text-align: left;
+font-size: 200%;
+font-weight: bold;
+font-family: system-ui;
+}
+
+#p3{
+position : relative;
+top: 150px;
+position: center;
+width: 80%;
+}
